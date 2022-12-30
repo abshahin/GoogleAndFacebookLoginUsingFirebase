@@ -28,3 +28,5 @@ google-services.json
 
 # Android Profiling
 *.hprof
+app/src/.DS_Store
+/app/src/main/res/values/firebaseui.xml

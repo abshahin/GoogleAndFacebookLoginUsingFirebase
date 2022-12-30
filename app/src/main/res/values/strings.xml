@@ -1,0 +1,4 @@
+<resources>
+    <string name="package_id" translatable="false">az.ustad.novyymilyoner</string>
+    <string name="app_name" translatable="false">Новий Мільйонер</string>
+</resources>
